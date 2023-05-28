@@ -1,1 +1,1 @@
-# capstone-module-2
+# Customer Profiling and Behavior Analysis Project
